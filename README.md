@@ -1,5 +1,1 @@
-<p style="width: 100%;text-align: center; color: #04BD83;">                                                     
-░▀▀█░▀█▀░█▀█░█▀█░█░█░█▀█░█▀▀░█░█░█▀▄░█▀█░█▀█
-░▄▀░░░█░░█▀▀░█▀▀░░█░░█░█░█▀▀░█░█░█▀▄░█░█░█░█
-░▀▀▀░▀▀▀░▀░░░▀░░░░▀░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀
-</p>
+<p>Just another bit-wise ape descendant banging on a keyboard with mind to do little else. Since 1982.</p>
